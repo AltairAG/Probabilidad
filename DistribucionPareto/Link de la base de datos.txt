@@ -1,0 +1,1 @@
+https://www.kaggle.com/datasets/goldenoakresearch/us-household-income-stats-geo-locations/data?select=kaggle_income.csv
